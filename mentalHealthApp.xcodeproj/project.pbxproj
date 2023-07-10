@@ -12,6 +12,7 @@
 		4F9616292A5B0B9E00F7CA4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F9616282A5B0B9E00F7CA4D /* Assets.xcassets */; };
 		4F96162C2A5B0B9E00F7CA4D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F96162B2A5B0B9E00F7CA4D /* Preview Assets.xcassets */; };
 		4F9616332A5B0CAA00F7CA4D /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F9616322A5B0CAA00F7CA4D /* TabBar.swift */; };
+		4FCA3D5E2A5C543100909C86 /* VideoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCA3D5D2A5C543100909C86 /* VideoListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		4F9616282A5B0B9E00F7CA4D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4F96162B2A5B0B9E00F7CA4D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4F9616322A5B0CAA00F7CA4D /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		4FCA3D5D2A5C543100909C86 /* VideoListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				4F9616242A5B0B9C00F7CA4D /* mentalHealthAppApp.swift */,
+				4FCA3D5D2A5C543100909C86 /* VideoListView.swift */,
 				4F9616262A5B0B9C00F7CA4D /* HomeView.swift */,
 				4F9616322A5B0CAA00F7CA4D /* TabBar.swift */,
 				4F9616282A5B0B9E00F7CA4D /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4FCA3D5E2A5C543100909C86 /* VideoListView.swift in Sources */,
 				4F9616332A5B0CAA00F7CA4D /* TabBar.swift in Sources */,
 				4F9616272A5B0B9C00F7CA4D /* HomeView.swift in Sources */,
 				4F9616252A5B0B9C00F7CA4D /* mentalHealthAppApp.swift in Sources */,
